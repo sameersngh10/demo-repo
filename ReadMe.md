@@ -1,3 +1,3 @@
 # learning 
 
-learning to use git
+learning to use git!
